@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: nones;
+}
+
+.start-Navbar {
+  background-color: #212529;
+}
+
+.start-head {
+  background-color: #212529;
+}
+
+.end-Card img {
+  height: 350;
+  width: 600;
+  padding: 0;
+}
+
+.Mail {
+  background-color: #217afd;
+  border-radius: 100px;
+}
+
+.copyright {
+  background-color: #212529;
+  padding: 25px;
+}
+
+.material-symbols-outlined {
+  font-size: 70px;
+}
+
+.card-img-top {
+  max-width: 600px;
+  height: auto;
+}
+
+.rounded-circle {
+  max-width: 50px;
+  height: auto;
+}
+
+.feature {
+  width: 3rem;
+  height: 3rem;
+}
+
+.material-symbols-outlined {
+  color: white;
+  font-size: 2rem;
+  padding-top: 0.5rem;
+}
+
+.start-navbar {
+  background-color: #212529;
+}
+.nav-link:hover {
+  color: gainsboro !important;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
+
+.perPage {
+  margin-top: 4rem;
+  
+}
+.perPage i {
+  border-radius: 5px;
+  color: white;
+}
+.perPageEnd {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.perPageEnd input {
+  margin-bottom: 0.8rem;
+}
+.form-messenger input {
+  height: 9rem !important;
+}
+
+.form-floating {
+  width: 100%;
+}
+
+#name {
+  width: 40rem;
+  height: 4rem;
+  border: 1px solid black;
+  margin-top: 2rem;
+}
+.before-end {
+  margin-top: 7rem;
+}
+
+.finish-icon {
+  background-color: #0d6efd;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  padding-bottom: 3px;
+  font-size: 2em;
+  color: white;
+}
+.finishText h5 {
+  margin-top: 1rem;
+}
+.icon-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  padding-bottom: 3px;
+}
+.footer-right a {
+  color: white;
+  text-decoration: none;
+}
+
+.grol {
+  color: white;
+  font-size: 2.5rem;
+  text-align: center;
+  
+}
+#html{
+  padding-left: 0.3rem;
+  
+}
+
+#css{
+  padding-left: 0.2rem;
+  
+}
+
+#js{
+  padding-left: 0.2rem;
+}
+
+#react{
+  padding-left: 0.2rem;
+}
+
+.rost {
+    border-radius: 6rem;
+    max-width: 150px;
+  height: 150;
+}
+
+.lount{
+  text-align: center;
+}
+
+.kros{
+  display: flex;
+  justify-content: center;
+}
+
+  .div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
